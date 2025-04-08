@@ -23,14 +23,3 @@ https://colab.research.google.com/drive/1DGQwnaxo_Id8Q8Mh4q9DDHgfk1E65w0X
 9. [Python Website – Built with Streamlit](https://growthmindsetchallengebyanoosha.streamlit.app/)
 
 ---
-
-## ✅ Checklist Before Submission
-
-- [ ] Each project is tested and working.
-- [ ] Files are named clearly.
-- [ ] Your name and roll number are added as comments in the code.
-- [ ] Code is clean and well-commented.
-- [ ] All required projects are uploaded.
-
----
-Happy Coding & Good Luck! 🚀
